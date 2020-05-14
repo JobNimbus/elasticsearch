@@ -15,7 +15,7 @@
     "release": "release-it"
   },
   "peerDependencies": {
-    "@elastic/elasticsearch": "^7.4.0",
+    "@elastic/elasticsearch": "^6.3.5",
     "@nestjs/common": "^6.0.0 || ^7.0.0",
     "rxjs": "^6.2.1"
   },
